@@ -1,0 +1,117 @@
+/* @charset "utf-8"; */
+/* CSS Document */
+/* html{
+	height: 100%;
+} */
+body{
+	font-family: sans-serif;
+	background: #e9ebee;
+}
+
+header{
+	background:#0A1169;
+	padding: 8px 0;
+}
+
+header .iniciar a{
+	color:rgba(255,255,255,1);
+	text-decoration: none;
+	border-color: white;
+	border-width: 0.5px;
+	border-style: solid;
+	border-radius: 50%;
+	padding: 5px;
+}
+header .iniciar a:hover{
+	color:rgba(255,255,255,0.8);
+}
+header .logo{
+		border-radius: 50%;
+		width: 40px;
+}
+.iniciar{
+	padding-right: 30px;
+  padding-left: 15px;
+}
+.pregunta{
+	margin: 3%;
+	text-align: center;
+	font-size: 20px;
+}
+/* estilos main */
+main{
+	text-align: center;
+	margin-bottom: 10px;
+}
+main .contenido{
+	background: #0A1169;
+	margin-top: 10px;
+	color: white;
+	text-align: justify;
+	padding: 20px 10px 20px 10px ;
+}
+
+/* estilos formulario */
+main .buscar form input[type="text"] {
+	width: 100%;
+	background: #fff;
+	border-width: 1px;
+	font-size: 12px;
+	padding: 0 10px;
+	margin: 5px;
+	height: 30px;
+	line-height: 25px;
+	border-radius: 3px 3px 3px 3px;
+	color: #6d6d6d;
+	font-family: 'Open Sans', sans-serif;
+}
+main .buscar form input[type="password"] {
+	width: 100%;
+	background: #fff;
+	border-width: 1px;
+	font-size: 12px;
+	padding: 0 10px;
+	margin: 5px;
+	height: 30px;
+	line-height: 25px;
+	border-radius: 3px 3px 3px 3px;
+	color: #6d6d6d;
+	font-family: 'Open Sans', sans-serif;
+}
+main .buscar form button {
+	width: 100%;
+	background: rgba(10,17,105,1);
+	border: none;
+	font-size: 12px;
+	padding: 0 10px;
+	margin: 5px;
+	height: 30px;
+	line-height: 25px;
+	border-radius: 5px 5px 5px 5px;
+	cursor: pointer;
+	color: white;
+
+}
+
+main .buscar form button:hover{
+	background: rgba(10,17,105,0.8);
+}
+
+/* estilo piepagina */
+footer{
+	background-color: #0A1169;
+	color: white;
+	font-size: 12px;
+}
+.infocurso{
+	padding: 10px 40px 0px 0px;
+	text-align: right;
+}
+.nombres{
+	padding: 10px 0px 0px 20px;
+	text-align: left;
+}
+footer .infocurso .logo {
+	width: 30px;
+	border-radius: 50%;
+}

@@ -1,0 +1,25 @@
+
+.icon-plus-circled:before { content: '\e800'; } /* '' */
+.icon-plus:before { content: '\e801'; } /* '' */
+.icon-menu:before { content: '\e802'; } /* '' */
+.icon-check:before { content: '\e803'; } /* '' */
+.icon-cancel:before { content: '\e804'; } /* '' */
+.icon-user:before { content: '\e805'; } /* '' */
+.icon-home:before { content: '\e806'; } /* '' */
+.icon-lock:before { content: '\e807'; } /* '' */
+.icon-lock-open:before { content: '\e808'; } /* '' */
+.icon-eye:before { content: '\e809'; } /* '' */
+.icon-search:before { content: '\e80a'; } /* '' */
+.icon-cancel-circled:before { content: '\e80b'; } /* '' */
+.icon-cancel-squared:before { content: '\e80c'; } /* '' */
+.icon-plus-squared:before { content: '\e80d'; } /* '' */
+.icon-minus-circled:before { content: '\e80e'; } /* '' */
+.icon-minus-squared:before { content: '\e80f'; } /* '' */
+.icon-help:before { content: '\e810'; } /* '' */
+.icon-help-circled:before { content: '\e811'; } /* '' */
+.icon-download:before { content: '\e812'; } /* '' */
+.icon-user-add:before { content: '\e813'; } /* '' */
+.icon-logout:before { content: '\e814'; } /* '' */
+.icon-github-circled-alt:before { content: '\f053'; } /* '' */
+.icon-twitter:before { content: '\f309'; } /* '' */
+.icon-facebook-squared:before { content: '\f30e'; } /* '' */
